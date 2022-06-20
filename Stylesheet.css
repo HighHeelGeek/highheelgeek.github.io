@@ -13,7 +13,7 @@ body {
 }
 
 .color1 {
-    border: 1px solid;
+    border: 1px solid black;
     padding: 40px 0px;
     text-align: center;
     width: 30%;
@@ -21,23 +21,25 @@ body {
 }
 
 .color2 {
-    border: 1px solid;
+    border: 1px solid black;
     padding: 40px 0px;
     text-align: center;
     width: 30%;
     background-color: #303436;
+    color: white
 }
 
 .color3 {
-    border: 1px solid;
+    border: 1px solid black;
     padding: 40px 0px;
     text-align: center;
     width: 30%;
     background-color: #002657;
+    color: white;
 }
 
 .color4 {
-    border: 1px solid;
+    border: 1px solid black;
     padding: 40px 0px;
     text-align: center;
     width: 30%;
@@ -116,4 +118,3 @@ body {
 p {
     border: 1px solid black; 
 }
-
